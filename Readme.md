@@ -24,6 +24,8 @@ Included files:
 
 ## Data paths
 
+**Note: Change all paths to your local paths before running**
+
 - Raw documentation: `docs_raw/`
 - Generated corpus output: `Solution/corpus/`
 - Generated Q&A output: `Solution/Q&A/`
